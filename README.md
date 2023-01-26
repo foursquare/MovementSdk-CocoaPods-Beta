@@ -1,2 +1,2 @@
-# Movement-CocoaPods-Beta
+# MovementSdk-CocoaPods-Beta
 Private CocoaPods Spec repo for the Movement SDK
