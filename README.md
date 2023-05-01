@@ -1,2 +1,13 @@
 # MovementSdk-CocoaPods-Beta
-Private CocoaPods Spec repo for the Movement SDK
+
+An example Podfile would look like this:
+
+source 'https://github.com/CocoaPods/Specs.git'
+source 'git@github.com:foursquare/MovementSdk-CocoaPods-Beta.git'
+
+platform :ios, '12.0'
+
+target '' do
+  use_frameworks!
+  pod 'MovementSdk'
+end
